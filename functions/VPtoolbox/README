@@ -1,0 +1,26 @@
+Vanishing Point Toolbox - Readme File
+
+PLEASE READ THE LICENSE AGREEMENT. Downloading and/or using this toolbox indicates your agreement with the enclosed license. 
+
+Please make sure that you have everything (Cexp, robotics3D, VanishingPoint, and their subfolders) in your matlab path. You can start to get an idea how everything works by looking at:
+VanishingPoint/Compare/SCRIPT_CALIB.m 
+and 
+VanishingPoint/Compare/SCRIPT_CALIB_HYST.m
+and
+VanishingPoint/Compare/SCRIPT_DLS_GT.m
+
+These scripts call the functions ClassifyLines.m and ClassifyLinesHyst.m that classify lines into orthogonal groups in a Manhattan world, which in turn call EstimateVanishingPoints.m. Note that these scripts require a line segment detection function (not included in the toolbox). You can download, compile, and use the line segment detector developed by Jean-Philippe Tardif (uncomment the corresponding lines in the aforementioned scripts). Alternatively, the line segment detector by Peter Kovesi can be used. Kovesi's toolbox does not need to compiled. However, it is significantly slower than Tardif's toolbox. Other line segment detectors, such as LSD by von Gioi et. al can be also used. In any case, the input to the function ClassifyLines is simply the normalized moments of the detected lines. 
+
+EstimateVanishingPoints function calls GetMulMatrixCash.m to compute the multiplication matrix. 
+
+If you already have the orientation of the lines previously known, you can directly use EstimateVanishingPoints.m
+
+Note that the first time that you run these functions, they take a bit longer to run, since GetMulMatrixCash.m needs to generate the structure of the coefficient matrix. But future runs (under the same solver options) should be much faster, as the structure is cashed. (see the ICCV paper for details).
+
+The documentation right now is very sparse. Unfortunately I don't have a whole lot of time to polish everything and add documentation. If you have questions about any specific part, please feel free to ask. 
+
+Email: faraz -at- umn.edu
+
+If you use this toolbox, please cite:
+F. M. Mirzaei and S. I. Roumeliotis, "Optimal Estimation of Vanishing Points in a Manhattan World," to appear in the IEEE International Conference on Computer Vision (ICCV), 2011.
+

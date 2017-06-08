@@ -1,0 +1,1 @@
+Data in this directory and its subdirectories are part of the "Max-Planck-Institut für Informatik datasets for Reconstruction of 3D Line Segment from Images" available at http://resources.mpi-inf.mpg.de/LineReconstruction/.

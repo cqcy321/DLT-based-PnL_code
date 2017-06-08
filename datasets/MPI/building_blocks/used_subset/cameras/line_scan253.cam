@@ -1,0 +1,32 @@
+;CAHV 1.1
+;
+; Camera-type: o_FImage
+; Camera-name: not set
+;
+;
+;	Cx	Cy	Cz	[mm]
+	114.71683	98.53312	141.46545
+;	Ax	Ay	Az	[unit vector]
+	-0.48340	-0.48013	-0.73198
+;	Hx	Hy	Hz	[pel]
+	2312.89380	104.35902	-1595.88340
+;	Vx	Vy	Vz	[pel]
+	1123.48838	-3285.92770	1413.38214
+;	Radialdistortion
+;	K3 [1/(mm)^2]	K5 [1/(mm)^4]
+	           0	           0
+;	PixelSize	[mm/pel]
+;	sx	sy
+	   0.0133333	        0.01
+;	ImageSize	[pel]
+;	Width	Height
+	1440	1080
+;
+;	Intrinsic parameters:
+;
+;	Principal Point offset	[pel]
+;	ppx	ppy
+;	-0.001741118384	0.01222962462
+;
+;	FocalLength	[mm]
+;	 37.49292747

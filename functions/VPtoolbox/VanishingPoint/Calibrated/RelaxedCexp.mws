@@ -1,0 +1,269 @@
+{VERSION 13 0 "Linux" "13.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier" 1 12 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printe
+d Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 12 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE
+ "" -1 -1 "Courier" 1 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0
+ 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier"
+ 1 12 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "Courier" 1 12 40 120 40 
+1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" 
+-1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Hyperlin
+kError" -1 206 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 255 1 2 2 1 2 2
+ 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Tim
+es" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "MS Serif" 1 18 0 0 0 1 2 
+1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item"
+ -1 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 
+-1 "MS Serif" 1 12 0 0 0 1 1 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "MS Serif" 1 14 0 
+0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 2" -1 4 1 {CSTYLE "" -1 -1 "MS Serif" 1 16 0 0 0 1 2 1 2 2 2 2 1 0
+ 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 
+1 {CSTYLE "" -1 -1 "Courier" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Output" -1 12 1
+ {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 
+0 2 0 2 0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{CSTYLE "Annotation Text" -1 200 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 
+1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 
+1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0
+ 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times"
+ 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier
+" 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times
+" 1 12 0 0 255 1 2 2 2 2 2 1 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 
+10 "Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1
+ 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 
+33 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" 
+-1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1
+ 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized
+" -1 22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Sym
+bol 2" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Mat
+h Italic Small208" -1 201 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small207" -1 202 "Times" 1 1 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small209" -1 203 "Times" 1 1 0
+ 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small204" -1 204 "
+Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placehold
+er" -1 205 "Courier" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Co
+de" -1 206 "Courier" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D M
+ath Italic Small206" -1 207 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small205" -1 208 "Times" 1 1 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 209 "Times" 1 12 144 144 144 
+1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 210 "Times" 1
+ 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "
+Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Ti
+mes" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "MS S
+erif" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" 
+-1 44 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 
+"Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Ti
+mes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times
+" 1 12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 211
+ "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 212 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times
+" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 
+1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 213 "Tim
+es" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 
+128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "M
+S Serif" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 
+23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "with(LinearAlgebra)
+:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "with(CodeGeneration):"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "with(Groebner):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 48 "S := [[0, -s3, s2], [s3, 0, -s1], [-s2, s1, 0]]:" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "S := convert(S, Matrix):" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "Iden := IdentityMatrix(3):
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 76 "Cs := simplify(Multiply
+(Iden-S, MatrixInverse(S+Iden))*Determinant(S+Iden)):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "e := Vector([e1, e2, e3]):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "n := Vector([n1, n2, n3]):" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "Eq1 := (e^%T . Cs . n)^2:
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "Eq1 := " }{MPLTEXT 1 0 
+49 "collect(value(Eq1), [s1, s2, s3], 'distributed'):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "EQs1coeffs := coeffs(Eq1, [s1, s2, \+
+s3], 'EQ1list'):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 44 "cost := sum(EQ1list[i]*a[i], 'i' = 1 .. 35):" }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "derv1 :
+= value(Diff(cost, s1)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "
+derv2 := " }{MPLTEXT 1 0 22 "value(Diff(cost, s2)):" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 9 "derv3 := " }{MPLTEXT 1 0 22 "value(Diff(cos
+t, s3)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "derv1 := " }
+{MPLTEXT 1 0 44 "collect(derv1, [s1, s2, s3], 'distributed'):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 53 "derv2 := collect(derv2, [s1,
+ s2, s3], 'distributed'):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+53 "derv3 := collect(derv3, [s1, s2, s3], 'distributed'):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 1 "#" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 17 "#nops([EQ1list]);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "derv1co
+effs := coeffs(derv1, [s1,s2,s3], 'derv1list'):" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 54 "derv2coeffs := coeffs(derv2, [s1,s2,s3], 'derv
+2list'):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+54 "derv3coeffs := coeffs(derv3, [s1,s2,s3], 'derv3list'):" }{MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "#derv1coeffs;" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1 "#" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 8 "derv1exp" }{MPLTEXT 1 0 18 " := Matrix(3,20): " }
+{MPLTEXT 1 0 8 "derv2exp" }{MPLTEXT 1 0 18 " := Matrix(3,20): " }
+{MPLTEXT 1 0 8 "derv3exp" }{MPLTEXT 1 0 18 " := Matrix(3,20): " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "for i to 20 do" }}{PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 43 "  derv1exp(1,i) := degree(derv1list[i],s1):" 
+}}{PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "  derv1exp(2,i) := degree(" }
+{MPLTEXT 1 0 4 "derv" }{MPLTEXT 1 0 13 "1list[i],s2):" }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 2 "  " }{MPLTEXT 1 0 8 "derv1exp" }{MPLTEXT 1 0 16 "
+(3,i) := degree(" }{MPLTEXT 1 0 4 "derv" }{MPLTEXT 1 0 13 "1list[i],s3
+):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 3 "  #" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 2 "  " }{MPLTEXT 1 0 8 "derv2exp" }{MPLTEXT 1 0 16 "(1,i)
+ := degree(" }{MPLTEXT 1 0 4 "derv" }{MPLTEXT 1 0 13 "2list[i],s1):" }
+}{PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "  " }{MPLTEXT 1 0 8 "derv2exp" }
+{MPLTEXT 1 0 16 "(2,i) := degree(" }{MPLTEXT 1 0 4 "derv" }{MPLTEXT 1 
+0 13 "2list[i],s2):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "  " }{MPLTEXT
+ 1 0 8 "derv2exp" }{MPLTEXT 1 0 16 "(3,i) := degree(" }{MPLTEXT 1 0 4 
+"derv" }{MPLTEXT 1 0 13 "2list[i],s3):" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 3 "  #" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "  " }{MPLTEXT 1 0 8 "d
+erv3exp" }{MPLTEXT 1 0 16 "(1,i) := degree(" }{MPLTEXT 1 0 4 "derv" }
+{MPLTEXT 1 0 13 "3list[i],s1):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "  
+" }{MPLTEXT 1 0 8 "derv3exp" }{MPLTEXT 1 0 16 "(2,i) := degree(" }
+{MPLTEXT 1 0 4 "derv" }{MPLTEXT 1 0 13 "3list[i],s2):" }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 2 "  " }{MPLTEXT 1 0 8 "derv3exp" }{MPLTEXT 1 0 16 "
+(3,i) := degree(" }{MPLTEXT 1 0 4 "derv" }{MPLTEXT 1 0 13 "3list[i],s3
+):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 3 "  #" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 7 "end do:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 ""
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "fi
+d:= fopen(\"/home/faraz/matlab/Line2LineCexp/GetPolys.m\", WRITE):" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "writeline(fid,\"function p \+
+= GetPolys(n,e,N)\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "wr
+iteline(fid,\"% this file is generated by RelaxedCexp.mws\"):" }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1 "#" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "writeline(fid,\"a = zeros(1,
+35);\\n\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "writeline(fi
+d,\"for k = 1:N\\n\"):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 14 "writeline(fid," }{MPLTEXT 1 0 22 "\"    n1 = n(1,k);
+\\n\"):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+14 "writeline(fid," }{MPLTEXT 1 0 22 "\"    n2 = n(2,k);\\n\"):" }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "writeli
+ne(fid," }{MPLTEXT 1 0 22 "\"    n3 = n(3,k);\\n\"):" }{MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "writeline(fid," }
+{MPLTEXT 1 0 22 "\"    e1 = e(1,k);\\n\"):" }{MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "writeline(fid," }{MPLTEXT 1 
+0 22 "\"    e2 = e(2,k);\\n\"):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 14 "writeline(fid," }{MPLTEXT 1 0 22 "\"    e3 \+
+= e(3,k);\\n\"):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 79 "writeline(fid,cat(\"    \",Matlab([EQs1coeffs],result
+name=new_a,output=string))):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 36 "writeline(fid,\"    a = a + new_a;\"):" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 10 "writeline(" }{MPLTEXT 1 0 4 "fid," }{MPLTEXT 1 0 
+9 "\"end\\n\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1 "#" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "writeline(fid,Matlab(" }
+{MPLTEXT 1 0 8 "derv1exp" }{MPLTEXT 1 0 13 ",resultname=\"" }{MPLTEXT 
+1 0 8 "derv1exp" }{MPLTEXT 1 0 18 "\",output=string)):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "writeline(fid,Matlab(" }{MPLTEXT 1 
+0 8 "derv2exp" }{MPLTEXT 1 0 13 ",resultname=\"" }{MPLTEXT 1 0 8 "derv
+2exp" }{MPLTEXT 1 0 18 "\",output=string)):" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 21 "writeline(fid,Matlab(" }{MPLTEXT 1 0 8 "derv3exp" 
+}{MPLTEXT 1 0 13 ",resultname=\"" }{MPLTEXT 1 0 8 "derv3exp" }{MPLTEXT
+ 1 0 18 "\",output=string)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 1 "#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "writeline(fid,Mat
+lab([" }{MPLTEXT 1 0 12 "derv1coeffs]" }{MPLTEXT 1 0 13 ",resultname=
+\"" }{MPLTEXT 1 0 11 "derv1coeffs" }{MPLTEXT 1 0 18 "\",output=string)
+):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 76 "wr
+iteline(fid,Matlab([derv2coeffs],resultname=\"derv2coeffs\",output=str
+ing)):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+76 "writeline(fid,Matlab([derv3coeffs],resultname=\"derv3coeffs\",outp
+ut=string)):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 1 "#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "fprintf(fid,\"p
+(1).exp = " }{MPLTEXT 1 0 8 "derv1exp" }{MPLTEXT 1 0 2 "; " }{MPLTEXT 
+1 0 12 "p(1).coef = " }{MPLTEXT 1 0 11 "derv1coeffs" }{MPLTEXT 1 0 2 "
+; " }{MPLTEXT 1 0 23 "p(1).m = %d;\\n\", nops([" }{MPLTEXT 1 0 15 "der
+v1coeffs])):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 97 "fprintf(fid
+,\"p(2).exp = derv2exp; p(2).coef = derv2coeffs; p(2).m = %d;\\n\", no
+ps([derv2coeffs])):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 97 "fprintf(fid,\"p(3).exp = derv3exp; p(3).coef = derv3c
+oeffs; p(3).m = %d;\\n\", nops([derv3coeffs])):" }{MPLTEXT 1 0 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1 "#" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 12 "fclose(fid):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "#### C++ files" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 76 "fid:= fopen(\"/home/faraz/devel/PolySolver/s
+andbox/GetPolysTemp.cpp\", WRITE):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 85 "writeline(fid,\"\\#include <vector>\\n\\#include <Eig
+en/Dense>\\n\\#include <iostream>\\n\"):" }}{PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 108 "writeline(fid,\"using std::vector;\\nusing Eigen::MatrixXd;
+\\nusing Eigen::VectorXd;\\nusing Eigen::Matrix;\\n\"):" }}{PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 68 "writeline(fid,\"// this file is generated by R
+elaxedCexpCppGen.mws\"):" }{MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 77 "writeli
+ne(fid,\"vector<VectorXd> GetPolys(MatrixXd n, MatrixXd e, size_t N)\"
+):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "writeline(fid,\"\{\")
+:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 1 "#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 84 
+"writeline(fid,\"Eigen::Matrix<double, 35, 1> a = Matrix<double, 35 ,1
+> ::Zero();\\n\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "write
+line(fid,\"for\\( size_t k = 0; k != N; ++k \\)\\n\"):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "writeline(fid,\"\{\"):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "writeline(fid,\"double& n1 = n(0,k)
+;\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "writeline(fid,\"do
+uble& n2 = n(1,k);\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "w
+riteline(fid,\"double& n3 = n(2,k);\"):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 38 "writeline(fid,\"double& e1 = e(0,k);\"):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "writeline(fid,\"double& e2 = e(1,k)
+;\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "writeline(fid,\"do
+uble& e3 = e(2,k);\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "w
+riteline(fid,C([EQs1coeffs], resultname=\"a\", output=string)):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1 "#" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 14 "writeline(fid," }{MPLTEXT 1 0 7 "\"\}\\n\"):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1 "#" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 65 "writeline(fid,\"vector<VectorXd> p;\\nVectorXd derv
+Coeffs(20);\\n\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "#writ
+eline(fid,\"p.clear();\"):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+70 "writeline(fid,C([derv1coeffs],resultname=\"dervCoeffs\",output=str
+ing)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "writeline(fid,\"p
+.push_back(dervCoeffs" }{MPLTEXT 1 0 7 ");\\n\"):" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 70 "writeline(fid,C([derv2coeffs],resultname=\"d
+ervCoeffs\",output=string)):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 44 "writeline(fid,\"p.push_back(dervCoeffs);\\n\"):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 70 "writeline(fid,C([derv3coeffs],resul
+tname=\"dervCoeffs\",output=string)):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 44 "writeline(fid,\"p.push_back(dervCoeffs);\\n\"):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 1 "#" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 30 "writeline(fid,\"return p;\\n\}\"):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "fclose(fid):" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 ""
+ }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

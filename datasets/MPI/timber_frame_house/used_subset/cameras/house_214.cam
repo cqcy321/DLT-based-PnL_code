@@ -1,0 +1,32 @@
+;CAHV 1.1
+;
+; Camera-type: o_Camera
+; Camera-name: cahv2cahv
+;
+;
+;	Cx	Cy	Cz	[mm]
+	49.79345	-30.00000	33.27177
+;	Ax	Ay	Az	[unit vector]
+	-0.91866	0.25882	0.29846
+;	Hx	Hy	Hz	[pel]
+	309.01611	-0.00692	951.05681
+;	Vx	Vy	Vz	[pel]
+	246.15368	965.92583	-79.97290
+;	Radialdistortion
+;	K3 [1/(mm)^2]	K5 [1/(mm)^4]
+	           0	           0
+;	PixelSize	[mm/pel]
+;	sx	sy
+	        0.01	        0.01
+;	ImageSize	[pel]
+;	Width	Height
+	1280	960
+;
+;	Intrinsic parameters:
+;
+;	Principal Point offset	[pel]
+;	ppx	ppy
+;	-0.02673192851	-2.486899575e-14
+;
+;	FocalLength	[mm]
+;	 10.00000008

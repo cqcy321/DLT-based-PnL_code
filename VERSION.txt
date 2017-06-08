@@ -1,0 +1,23 @@
+2017-01-10 v1.2
+- bugfixes in tests with real data (coordinate systems of each dataset are now transformed individually, which fixed the performace issues of the following methods on real data: Mirzaei, RPnL, ASPnL, LPnL_Bar_LS, LPnL_Bar_ENull)
+- minor update to DLT-Plücker-Lines and DLT-Combined-Lines: the choice of solution A/B is now based on whether the scene is in front of the camera, not on the similarity of the right rotation submatrix to the left rotation submatrix
+- minor improvement in conversion of output in Ansar_wrapper: R_cw \ T_cw used instead of R_cw.' * T_cw, because R_cw may not be orthonormal in Ansar's method
+- minor updates of README
+
+2016-09-05 v1.1.1
+- README updated with info about used datasets
+
+2016-09-02 v1.1
+- tests with outliers added
+- tests with real data added
+- all 4 required Matlab codes/toolboxes included with proper atribution
+- minimal versions of VGG/MPI datasets added (no images, just the data needed to run the tests)
+- minor tweaking of scripts output
+
+2016-08-31 v1.0
+- all tested methods included
+- test with random lines added
+
+2016-08-29 v0.9
+- first release (DLT-Combined-Lines method + minimal working example)
+
